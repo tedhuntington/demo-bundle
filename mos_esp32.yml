@@ -9,7 +9,7 @@ libs:
   - origin: https://github.com/mongoose-os-libs/esp32-touchpad
   - origin: https://github.com/mongoose-os-libs/ethernet
   - origin: https://github.com/mongoose-os-libs/gcp
-  - origin: https://github.com/mongoose-os-libs/i2c
+  - origin: https://github.com/TedHuntington/i2c
   - origin: https://github.com/mongoose-os-libs/ota-shadow
   - origin: https://github.com/mongoose-os-libs/ota-http-client
   - origin: https://github.com/mongoose-os-libs/ota-http-server
